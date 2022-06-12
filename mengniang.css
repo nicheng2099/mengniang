@@ -23,7 +23,7 @@
 		height:130px;
 		border:solid 2px #009000;
 		background:#60D421;
-		z-index:0;
+		z-index:1;
 	}
 
 	.guding img{
@@ -43,7 +43,7 @@
 		width:100px;
 		height:250px;
 		border:solid 2px #009000;
-		z-index:0;
+		z-index:1;
 	}
 	.gudingl img{
 		width:100px;
