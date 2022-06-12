@@ -182,7 +182,7 @@
 		position:relative;
 		top:20px;
 		margin:0 auto;
-		z-index:-1;
+		z-index:1;
 	}
 	.c_left{
 		width:600px;
@@ -290,7 +290,7 @@
 		position:relative;
 		top:20px;
 		margin:0 auto;
-		z-index:-1;
+		z-index:1;
 	}
 	.con_list1{
 		/* border:solid 2px red; */
